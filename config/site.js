@@ -22,9 +22,9 @@ module.exports = {
   backgroundColor: '#2b2e3c',
 
   // Your information
-  avatar: '/logos/lekoarts.png',
-  name: 'LekoArts',
-  location: 'Germany',
+  avatar: '/logos/ben_cahn_logo.png',
+  name: 'Ben Cahn',
+  location: 'Berkeley, CA',
   socialMedia: [
     {
       url: 'https://twitter.com/lekoarts_de',
