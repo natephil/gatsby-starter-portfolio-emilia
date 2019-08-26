@@ -7,7 +7,7 @@ module.exports = {
   siteHeadline: 'Publishing & Creating stunning photos', // Headline for schema.org JSONLD
   siteUrl: 'https://bencahn.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logos/logo.png', // Used for SEO and manifest
+  siteLogo: '/src/favicon.png', // Used for SEO and manifest
   siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
   author: 'LekoArts', // Author for schema.org JSONLD
 
